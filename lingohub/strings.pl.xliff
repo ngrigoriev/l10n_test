@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="plaintext" id="2" original="/Nikolai test root file.csv" source-language="en" target-language="pl">
+    <body>
+      <trans-unit approved="yes" id="1" identifier="65436c4450fe5479357bb45a34dd4462" maxwidth="80" size-unit="char">
+        <source>Welcome to Newforma mobile app!</source>
+        <target>Witamy Newforma aplikacji mobilnej!</target>
+        <note>Context: welcome.message
+Displayed after the very first user sign-in.
+
+lh-check { max: 60, min: 5 }</note>
+      </trans-unit>
+      <trans-unit approved="yes" id="2" identifier="3a3913e001e71097340f9580af098312" maxwidth="120" size-unit="char">
+        <source>Something really bad happened</source>
+        <target>Coś naprawdę złego się nie stało</target>
+        <note>Context: general.error
+Displayed when an undentified error happens</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
